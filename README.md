@@ -15,6 +15,7 @@ Data (/data):
     b. Temporary location for intermediate data outputs (/compOutData_temp)
 
 Figures (/figures):  
-    a. Storage folder for initial figure outputs from Mathematica (/raw)
-    b. Vector graphics files (.svg) for figure creation (/processed)
-    c. Final figures (/finished)
+1) Graphics folders:  
+    a. Storage folder for initial figure outputs from Mathematica (/raw)  
+    b. Vector graphics files (.svg) for figure creation (/processed)  
+    c. Final figures (/finished)  
